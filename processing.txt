@@ -1,0 +1,20 @@
+Data cleaning and transformation:
+
+AdventureWorks Product Subcategories Lookup
+- add a new column to extract all characters before the second dash in the Product SKU column, name it "SKU Type"
+- replace zeros in Product Style column with "NA"
+
+AdventureWorks Customer Lookup
+- remove rows containing values which couldn't be converted to Number
+- remove rows containing empties
+- capitalise prefixes, firstname and lastname columns, combine to create fullname
+- created a cleaned-up domain name column from email address
+
+AdventureWorks Product Lookup
+- add discount price column (90% of original product price)
+
+
+AdventureWorks Calendar Lookup
+- add day name, start of week (Monday) and start of month columns
+
+Created a rolling calendar using PowerQuery M code
