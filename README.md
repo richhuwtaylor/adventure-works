@@ -4,7 +4,7 @@ A Microsoft Power BI business intelligence dashboard for AdventureWorks, a ficti
 
 The dataset was supplied with the [Maven Analytics Power BI Desktop course](https://mavenanalytics.io/course/microsoft-power-bi-desktop). This data was derived from the [AdventureWorks sample databases](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure) available from Microsoft.
 
-<img alt="AdventureWorks Executive Dashboard" src="images/screenshots/exec_dashboard.gif" width=50% height=50%>
+<img alt="AdventureWorks Executive Dashboard" src="images/screenshots/exec_dashboard.gif">
 
 ## Features
 
