@@ -42,7 +42,7 @@ This project involved the following tasks:
 
 ### Customer Detail View
 
-- total customer and per-customer renevue analysis
+- total customer and per-customer revenue analysis
 
 ### Custom UI Elements
 
